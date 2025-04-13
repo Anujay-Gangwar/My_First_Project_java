@@ -9,7 +9,7 @@ import java.util.Scanner;
             Scanner sc = new Scanner(System.in);
             if(sc.hasNextInt())
             {
-                System.out.println(sc.nextInt()+" is valid Integer Anujay Gangwar");
+                System.out.println(sc.nextInt()+" is valid Integer ");
             }
 
 
